@@ -2,7 +2,7 @@ server:
     port: 8090
 spring:
   datasource:
-    url: jdbc:postgresql://127.0.0.1/techempower-test?characterEncoding=UTF-8&useSSL=true&serverTimezone=GMT%2B8
+    url: jdbc:postgresql://127.0.0.1/techempower-test
     driver-class-name: org.postgresql.Driver
     username: postgres
     password: postgres
